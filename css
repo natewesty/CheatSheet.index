@@ -1,0 +1,46 @@
+* {
+  font-family: "Barlow Condensed", Courier, monospace;
+}
+
+html {
+  background-color: floralwhite;
+}
+
+header {
+  font-style: italic;
+}
+
+body {
+  text-align: center;
+}
+
+table, td {
+  border: 1px solid #333;
+  color: black;
+}
+
+table {
+  table-layout: auto;
+  width: 100%;
+  background-color: lightgreen;
+}
+
+td {
+  color: black;
+  font-weight: 550;
+  background-color: floralwhite;
+}
+
+span {
+  background-color: khaki;
+}
+
+.colhead {
+   border: 1px solid #333;
+   font-size: 23px;
+   background-color: lightgrey;
+}
+
+.description {
+  text-align: left;
+}
